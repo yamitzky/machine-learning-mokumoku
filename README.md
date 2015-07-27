@@ -1,0 +1,2 @@
+# machine-learning-mokumoku
+CyberZでやっている機械学習もくもく会の説明用リポジトリです
